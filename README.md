@@ -5,6 +5,7 @@ In these notebooks we study:
 
 - Permutation Equivariance of Self-Attention 
 - General Group Equivariance of Self-Attention
+- Attention Applied to Graphs Embedded in Surfaces and Dessins d'Enfant (with potential applications)
 - Visualizing Attention Matrices and Graphs
 - Basic Information Theory of Attention Probability Distributions
 - Contextual Mappings and Context Vectors in GPT-2, Bert, and ViT

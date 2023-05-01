@@ -13,4 +13,5 @@ In these notebooks we study:
 - Can we view attention as a kernel?
 - Can we use quantum kernel methods to enhance performance of attention? 
 - Viewing transformers as "powerful graph learners", and tokenizing graphs and dessins d'enfant. 
-- How do we relate this to graph grammars, graph completion, and graph property prediction?
+- How do we relate this to graph grammars and language modelling? 
+- What about graph completion, and graph property prediction?

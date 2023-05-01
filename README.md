@@ -3,8 +3,8 @@ A study of attention from many perspectives
 
 In these notebooks we study:
 
-- Permutation Equivariance of Self-Attention 
-- General Group Equivariance of Self-Attention
+- Permutation Equivariance of Self-Attention (without positional encodings)
+- Designing General Group Equivariance of Self-Attention
 - Attention Applied to Graphs Embedded in Surfaces and Dessins d'Enfant (with potential applications)
 - Visualizing Attention Matrices and Graphs
 - Basic Information Theory of Attention Probability Distributions

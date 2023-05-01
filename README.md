@@ -10,3 +10,4 @@ In these notebooks we study:
 - Basic Information Theory of Attention Probability Distributions
 - Contextual Mappings and Context Vectors in GPT-2, Bert, and ViT
 - Visualizing the Autoregressice Property of GPT-2
+- Can we view attention as a kernel, and use quantum kernel methods to enhance performance of attention? 

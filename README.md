@@ -4,6 +4,7 @@ A study of attention from many perspectives
 In these notebooks we study:
 
 - Permutation Equivariance of Self-Attention (without positional encodings)
+- Translation Equivariance with LoRAs Proof (see [LoRA_equivariance](https://github.com/Amelie-Schreiber/study_of_attention/blob/main/LoRA_equivariance.ipynb))
 - Designing General Group Equivariance of Self-Attention
 - Attention Applied to Graphs Embedded in Surfaces and Dessins d'Enfant (with potential applications)
 - Visualizing Attention Matrices and Graphs

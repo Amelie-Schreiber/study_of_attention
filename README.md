@@ -5,8 +5,8 @@ In these notebooks we study:
 
 - Permutation Equivariance of Self-Attention (without positional encodings)
 - Translation Equivariance with LoRAs Proof (see [LoRA_equivariance](https://github.com/Amelie-Schreiber/study_of_attention/blob/main/LoRA_equivariance.ipynb))
+- - Designing General Group Equivariance of Lifting Self-Attention with LoRAs
 - Group Self-Attention Equivariance Proof Problem (see [group_equivariant_attention_2](https://github.com/Amelie-Schreiber/study_of_attention/blob/main/group_equivariant_attention_2.ipynb)
-- Designing General Group Equivariance of Self-Attention
 - Attention Applied to Graphs Embedded in Surfaces and Dessins d'Enfant (with potential applications)
 - Visualizing Attention Matrices and Graphs
 - Basic Information Theory of Attention Probability Distributions

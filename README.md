@@ -11,7 +11,7 @@ In these notebooks we study:
 - Visualizing Attention Matrices and Graphs
 - Basic Information Theory of Attention Probability Distributions
 - Contextual Mappings and Context Vectors in GPT-2, Bert, and ViT
-- Visualizing the Autoregressice Property of GPT-2
+- Visualizing the Autoregressive Property of GPT-2
 - Can we view attention as a kernel (see for example [Transformer Dissection: A Unified Understanding of Transformer’s Attention via the Lens of Kernel](https://arxiv.org/pdf/1908.11775.pdf)?
 - Can we use quantum kernel methods to enhance performance of attention? 
 - Viewing transformers as "powerful graph learners", and tokenizing (edges and vertices of) graphs, and dessins d'enfant. 

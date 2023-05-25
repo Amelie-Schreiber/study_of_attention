@@ -8,7 +8,7 @@ In these notebooks we study:
 - Designing General Group Equivariance of Lifting Self-Attention with LoRAs (see [LoRAs_lifting_self_attention](https://github.com/Amelie-Schreiber/study_of_attention/blob/main/LoRAs_lifting_self_attention.ipynb))
 - Group Self-Attention Equivariance Proof Problem and Including LoRAs (see [LoRAs_group_self_attention](https://github.com/Amelie-Schreiber/study_of_attention/blob/main/LoRAs_group_self_attention.ipynb))
 - Attention Applied to Graphs Embedded in Surfaces and Dessins d'Enfant (see [tokenizing_dessins](https://github.com/Amelie-Schreiber/study_of_attention/blob/main/tokenizing_dessins.ipynb))
-- For a complete proof of equivarianc properties and LoRAs please see [GSA-Nets_and LoRAs for_TrOCR](https://github.com/Amelie-Schreiber/study_of_attention/blob/main/GSA_Nets_and_LoRAs_for_TrOCR.pdf)
+- For a complete proof of equivarianc properties and LoRAs please see [GSA-Nets and LoRAs for TrOCR](https://github.com/Amelie-Schreiber/study_of_attention/blob/main/GSA_Nets_and_LoRAs_for_TrOCR.pdf)
 - Visualizing Attention Matrices and Graphs
 - Basic Information Theory of Attention Probability Distributions
 - Contextual Mappings and Context Vectors in GPT-2, Bert, and ViT

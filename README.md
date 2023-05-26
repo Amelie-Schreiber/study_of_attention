@@ -7,7 +7,6 @@ In these notebooks we study:
 - Translation Equivariance with LoRAs Proof (see [LoRA_equivariance](https://github.com/Amelie-Schreiber/study_of_attention/blob/main/LoRA_equivariance.ipynb))
 - Designing General Group Equivariance of Lifting Self-Attention with LoRAs (see [LoRAs_lifting_self_attention](https://github.com/Amelie-Schreiber/study_of_attention/blob/main/LoRAs_lifting_self_attention.ipynb))
 - Group Self-Attention Equivariance Proof Problem and Including LoRAs (see [LoRAs_group_self_attention](https://github.com/Amelie-Schreiber/study_of_attention/blob/main/LoRAs_group_self_attention.ipynb))
-- Attention Applied to Graphs Embedded in Surfaces and Dessins d'Enfant (see [tokenizing_dessins](https://github.com/Amelie-Schreiber/study_of_attention/blob/main/tokenizing_dessins.ipynb))
 - For a complete proof of equivarianc properties and LoRAs please see [GSA-Nets and LoRAs for TrOCR](https://github.com/Amelie-Schreiber/study_of_attention/blob/main/GSA_Nets_and_LoRAs_for_TrOCR.pdf)
 - Computing pairwise distances between context vectors [context_and_ph_2](https://github.com/Amelie-Schreiber/study_of_attention/blob/main/context_and_ph_2.ipynb) note this could be important for understanding the following idea. Suppose we are given a phrase or collection of words that often occur together, then their pairwise distances (or a persistent homology clustering) should not change across contexts as much as if the words do not often occur together. More specifically, 
 
@@ -35,6 +34,3 @@ Remember that the interpretation of these distances also depends on the layer an
 - Basic Information Theory of Attention Probability Distributions
 - Contextual Mappings and Context Vectors in GPT-2, Bert, and ViT
 - Visualizing the Autoregressive Property of GPT-2
-- Viewing transformers as "powerful graph learners", and tokenizing (edges and vertices of) graphs? 
-- How do we relate this to graph grammars and language modelling? 
-- What about graph completion, and graph property prediction? 

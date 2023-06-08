@@ -28,7 +28,7 @@ The pairwise distances between the context vectors of a collection of words refl
     
     * **About the model:** It suggests that the model is sensitive to changes in context for these words, and that the specific layer and head selected are capturing this context-sensitive information. This would be expected behavior for a language model like GPT-2, which is designed to encode context in its representations.
 
-Remember that the interpretation of these distances also depends on the layer and head chosen for the analysis. Different layers and heads of the model capture different types of information, so the same words may have different distances in different layers/heads.
+Remember that the interpretation of these distances also depends on the layer and head chosen for the analysis. Different layers and heads of the model capture different types of information, so the same words may have different distances in different layers/heads. Moreover, we would expect certain collections of words to maintain their topology in many different contexts, such as collocations and multiword expressions. Other collections of words likely **should not** maintain their topology as we change their context. Having a model that is able to perform well in both cases is important to having a model that captures the semantic relationshipt between words of collocations or multiword expressions, and a model that is maximally expressive. With this in mind we may want to include both scenarios in the objective of the model. 
 
 - Visualizing Attention Matrices and Graphs
 - Basic Information Theory of Attention Probability Distributions
